@@ -2,6 +2,8 @@
 
 This is an API for creating and updating notes.
 
+The backend is published on railway.
+
 ## Setup
 
 1. Clone the repository:
